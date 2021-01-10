@@ -10,6 +10,11 @@ function Docs() {
       <meta name="description" content="Official Docs of fresh ui css framework"/>
       <title>Docs</title>
       </Head>
+        <style jsx>{`
+        .navbar {
+          background-color: #000;
+        }
+      `}</style>
        <nav className="navbar">
        <ul className="navbar">
        <li className="navbarli">
