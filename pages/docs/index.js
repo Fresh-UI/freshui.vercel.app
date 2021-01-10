@@ -11,7 +11,7 @@ function Docs() {
       <title>Docs</title>
       </Head>
        <nav className="navbar">
-       <ul>
+       <ul className="navbar">
        <li className="navbarli">
        <Link href="/">
        <a className="navbara">
