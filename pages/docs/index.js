@@ -8,7 +8,7 @@ function Docs() {
       <Fragment>
       <Head>
       <meta name="description" content="Official Docs of fresh ui css framework"/>
-      <title>Docs</title>
+      <title>Docs || Fresh UI</title>
       </Head>
         <style jsx>{`
         .navbar {
