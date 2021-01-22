@@ -19,6 +19,7 @@ export default function MyApp({ Component, pageProps }) {
         <script type="module" src="https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate"></script>
       </Head>
       <pwa-update></pwa-update>
+      <script>navigator.serviceWorker.register("/pwabuilder-sw.js");</script>
       <Component {...pageProps} />
     </>
   )
