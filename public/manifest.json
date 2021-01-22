@@ -11,7 +11,7 @@
         "url":"/docs"
       }
     ],
-    "icons": [{"src":"/72x72.png",”sizes:”72x72","type":"image/png"},{"src":"/128x128.png","sizes":"128x128","type":"image/png"},{"src":"/192x192.png","sizes":"192x192x,"type":"image/png"},{"src":"/appstore.png","type":"image/png","sizes":1024x1024","purpose":"any maskable"}],
+    "icons": [{"src":"/72x72.png",”sizes:”72x72","type":"image/png"},{"src":"/128x128.png","sizes":"128x128","type":"image/png"},{"src":"/192x192.png","sizes":"192x192x,"type":"image/png"},{"src":"/appstore.png","type":"image/png","sizes":"1024x1024","purpose":"any maskable"}],
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#000000",
