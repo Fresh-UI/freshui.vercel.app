@@ -16,6 +16,7 @@ export default function MyApp({ Component, pageProps }) {
         <link rel="icon" href="/favicon.ico" />
         <title>Fresh UI</title>
         <meta name="theme-color" content="#317EFB" />
+        <script type="module" src="/pwabuilder-sw-register.js"></script>
       </Head>
       <Component {...pageProps} />
     </>
