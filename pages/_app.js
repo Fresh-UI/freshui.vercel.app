@@ -14,6 +14,7 @@ export default function MyApp({ Component, pageProps }) {
         <meta name="description" content="Official Website of freshui css framework" />
         <link rel="manifest" href="/manifest.json"/>
         <link rel="icon" href="/favicon.ico" />
+        <link rel="apple-touch-icon" href="/appstore.png" />
         <title>Fresh UI</title>
         <meta name="theme-color" content="#317EFB" />
         </Head>
