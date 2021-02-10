@@ -1,7 +1,6 @@
 import React, {Fragment} from "react";
 import Link from 'next/link';
 import Head from 'next/head';
-import styles from './doc.module.css';
 
 const gettingstarted = () => {
     return (
@@ -10,6 +9,8 @@ const gettingstarted = () => {
                 <title>
                     Getting Started || Fresh UI
                 </title>
+                <link rel="stylesheet" href="/code.css" />
+                <link rel="stylesheet" href="/sidebar.css" />
             </Head>
             <nav className="navbar">
                 <ul className="navbar">
@@ -38,7 +39,7 @@ const gettingstarted = () => {
             <div className="content">
                 Assuming you already have linked the css to your project.Copy and paste the code given below to get started with basic template.
                 <br/>
-                <div className="code" id="demo">
+                <div className="code">
                     &lt;html lang="en"&gt;
                     <br/>
                     &lt;head&gt;
