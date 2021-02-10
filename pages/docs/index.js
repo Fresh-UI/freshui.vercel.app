@@ -25,7 +25,7 @@ function Docs() {
        </Link>
         </li>
         <li className="navbarli">
-        <Link href="#">
+        <Link href="/docs#">
          <a className="navbara active">Docs</a>
         </Link>
         </li>
@@ -43,11 +43,16 @@ function Docs() {
        Now in order to start using fresh ui you should include the following piece of code:
        <br/>
        <br/>
-       <div className={styles.cdnlink}>
-    &lt;link rel="stylesheet" 
-    <br/>
-    href="https://cdn.jsdelivr.net/npm/@freshui/freshui/css/fresh-ui.min.css" &gt;
+       <div className="cdnlink">
+         &lt;link rel="stylesheet" 
+         <br/>
+         href="https://cdn.jsdelivr.net/npm/@freshui/freshui/css/fresh-ui.min.css" &gt;
        </div>
+       <br/>
+       <br/>
+       <Link href="/docs/getting-started">
+       <a className="btn btn-black">Get Started</a>
+       </Link>
        </center>
       </Fragment>
     )

@@ -26,3 +26,15 @@
 .active{
     background-color: #2196f3;
 }
+
+@media screen and (max-width: 450px) {
+  .navbar {
+    width:auto ;
+  }
+}
+
+@media screen and (max-width: 305px) {
+  .navbar {
+    width: 110%;
+  }
+}

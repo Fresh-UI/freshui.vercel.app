@@ -1,5 +1,6 @@
+@import url(/style.css);
+@import url(/sidebar.css);
 .welc{
     font-family: 'Open Sans',Sans-Serif;
     font-size: 30px;
 }
-.cdnlink{background: #000000;color:#2196f3; width:200px;overflow-x:scroll;border-radius:16px;}

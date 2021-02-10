@@ -1,6 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
-@import url('https://unpkg.com/browse/@freshui/freshui@latest/css/fresh-ui.css');
+@import url(./nav.css);
+@import url(/style.css);
+
 .customh{font-family: 'Open Sans'sans-serif;font-size:30px}
 .home{font-family: 'Open Sans', sans-serif; font-weight:300}
-.cdnlink{background: #000000;color:#2196f3; width:200px;overflow-x:scroll;border-radius:16px}
-@import url(./nav.css);
+
+
