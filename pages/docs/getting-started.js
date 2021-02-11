@@ -30,7 +30,9 @@ const gettingstarted = () => {
             </nav>
             <div className="sidebar">
                 <a className="active" href="#">Getting Started</a>
+                <Link href="/docs/button">
                 <a>Buttons</a>
+                </Link>
                 <a>Cards</a>
             </div>
             <br/>

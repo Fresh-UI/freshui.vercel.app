@@ -10,7 +10,7 @@
     "start": "next start"
   },
   "keywords": [],
-  "author": "",
+  "author": "Fresh UI",
   "license": "ISC",
   "dependencies": {
     "@freshui/freshui": "^0.5.4",
