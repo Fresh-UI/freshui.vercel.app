@@ -33,7 +33,9 @@ const Button = () => {
                 <a>Getting Started</a>
                 </Link>
                 <a href="#" className="active">Buttons</a>
+                <Link href="/docs/cards">
                 <a>Cards</a>
+                </Link>
             </div>
             <div className="content">
                 <center>
@@ -46,7 +48,7 @@ const Button = () => {
                     <button className="btn btn-black">Black Button</button>
                     <button className="btn btn-fr-ui">Default Button</button>
                     <button className="btn btn-blue-gradient">Blue Gradient Button</button>
-                    <button class="btn btn-aqua-gradient">Aqua Gradient Button</button>
+                    <button className="btn btn-aqua-gradient">Aqua Gradient Button</button>
                     <p>Here is the code for the different buttons:</p>
                     <div className="code">
                         &lt;button class="btn btn-primary"&gt;Primary Button&lt;/button&gt;

@@ -5,3 +5,24 @@
 .bg-primary {
     background-color: #81c784 !important;
 }
+
+.alert {
+    width: 30%;
+}
+
+.alert-info {
+    color: #ffffff !important;
+    background: #2196f3 !important;
+}
+
+#alert-code1{
+    width: 80% !important;
+}
+
+#note1{
+    font-size: 20px;
+}
+
+#codeblock2 {
+    width: 85%;
+}
