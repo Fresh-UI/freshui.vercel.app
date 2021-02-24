@@ -37,6 +37,9 @@ const Cards = () => {
                 <a >Buttons</a>
                 </Link>
                 <a className="active" href="#">Cards</a>
+                <Link href="/docs/progressbar">
+                    <a>Progress Bars</a>
+                </Link>
             </div>
             <div className="content">
                 <center>

@@ -35,7 +35,7 @@ function HomePage() {
     The world’s first native css front-end open source toolkit.
     <br/>
     <br/>
-    <a href="https://github.com/Fresh-UI/freshui/releases/download/Beta-0.5.5/freshui.zip" download="freshui.zip"className="btn btn-fr-ui">Download</a>
+    <a href="https://github.com/Fresh-UI/freshui/releases/download/Beta-0.5.6/freshui.zip" download="freshui.zip"className="btn btn-fr-ui">Download</a>
     <br/>
     <br/>
     <div className="cdnlink">

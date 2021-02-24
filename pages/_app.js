@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import "@freshui/freshui/css/fresh-ui.css";
+import "@freshui/freshui/css/fresh-ui.min.css";
 import './global.css'
 
 export default function MyApp({ Component, pageProps }) {

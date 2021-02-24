@@ -36,6 +36,9 @@ const gettingstarted = () => {
                 <Link href="/docs/cards">
                 <a>Cards</a>
                 </Link>
+                <Link href="/docs/progressbar">
+                    <a>Progress Bars</a>
+                </Link>
             </div>
             <br/>
             <br/>
