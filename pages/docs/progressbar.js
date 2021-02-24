@@ -58,7 +58,7 @@ const progressbar = () => {
                         <br/>
                         &lt;div class="pbar" style="width:100px;"&gt;&lt;/div&gt;
                     </div>
-                    Here is the modofied progress bar:
+                    Here is the modified progress bar:
                     <br/>
                     <div className="pbar" style={{width: 100 }}></div>
                 </center>
