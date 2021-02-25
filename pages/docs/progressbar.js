@@ -61,6 +61,36 @@ const progressbar = () => {
                     Here is the modified progress bar:
                     <br/>
                     <div className="pbar" style={{width: 100 }}></div>
+                    We have 4 different progress bars:
+                    <br/>
+                    <li>Default: <div className="pbar" style={{ width: 500 }}></div></li>
+                    <br/>
+                    <li>Dark: <div className="pbar pbar-dark" style={{ width: 500}}></div></li>
+                    <br/>
+                    <li>Primary: <div className="pbar pbar-primary" style={{ width: 500}} ></div></li>
+                    <br/>
+                    <li>Success: <div className="pbar pbar-success" style= {{ width: 500 }}></div></li>
+                    <br/>
+                    The classes for all the different progress bars are as follows:
+                    <br/>
+                    <div className="code">
+                        &lt;!-- Default Progress Bar --&gt;
+                        <br/>
+                        &lt;div class="pbar"&gt;&lt;/div&gt;
+                        <br/>
+                        &lt;!-- Dark Progress Bar -- &gt;
+                        <br/>
+                        &lt;div class="pbar pbar-dark"&gt;&lt;/div&gt;
+                        <br/>
+                        &lt;!-- Primary Progress Bar --&gt;
+                        <br/>
+                        &lt;div class="pbar pbar-primary"&gt;&lt;/div&gt;
+                        <br/>
+                        &Lt;!-- Success Progress Bar --&gt;
+                        <br/>
+                        &lt;div class="pbar pbar-success"&gt;&lt;/div&gt;
+                        <br/>
+                    </div>
                 </center>
             </div>
         </Fragment>

@@ -13,10 +13,10 @@
   "author": "Fresh UI",
   "license": "ISC",
   "dependencies": {
-    "@freshui/freshui": "0.5.6",
+    "@freshui/freshui": "^0.5.8",
     "next": "10.0.3",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0",
+    "react": "17.0.0",
+    "react-dom": "17.0.0",
     "sass": "^1.32.8"
   }
 }
