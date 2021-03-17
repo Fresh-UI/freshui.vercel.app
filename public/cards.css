@@ -10,6 +10,10 @@
     width: 30%;
 }
 
+.alert-warning {
+    color: #111 !important;
+}
+
 .alert-info {
     color: #ffffff !important;
     background: #2196f3 !important;

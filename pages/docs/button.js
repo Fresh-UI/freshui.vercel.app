@@ -39,6 +39,9 @@ const Button = () => {
                 <Link href="/docs/progressbar">
                     <a>Progress Bars</a>
                 </Link>
+                <Link href="/docs/theme">
+                <a>Themes</a>
+                </Link>
             </div>
             <div className="content">
                 <center>
