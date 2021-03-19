@@ -13,8 +13,12 @@
   "keywords": [],
   "author": "Fresh UI",
   "license": "ISC",
+  "browserslist": [
+    ">0.2%",
+    "not dead"
+  ],
   "dependencies": {
-    "@freshui/freshui": "^0.5.8",
+    "@freshui/freshui": "^0.5.9",
     "next": "10.0.3",
     "react": "17.0.0",
     "react-dom": "17.0.0",
