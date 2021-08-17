@@ -43,7 +43,7 @@ const Theme = () => {
                 <Link href="/docs/cards">
                 <a>Cards</a>
                 </Link>
-                <Link href="/docs/progessbar">
+                <Link href="/docs/progressbar">
                 <a>Progress Bars</a>
                 </Link>
                 <a href="#" className="active">Themes</a>
