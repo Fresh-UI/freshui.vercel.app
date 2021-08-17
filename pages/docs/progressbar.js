@@ -35,7 +35,7 @@ const progressbar = () => {
                 <Link href="/docs/button">
                 <a >Buttons</a>
                 </Link>
-                <Link href="/cards">
+                <Link href="/docs/cards">
                 <a>Cards</a>
                 </Link>
                 <a className="active" href="#">Progress Bars</a>
